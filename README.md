@@ -1,6 +1,6 @@
 # Climatechange Misinformation Detection
 Climate change misinformation detection using:
-1. topic modeling (LDA) and word vectors(W2V) and meta data (email, hashtag, etc.).
+1. Topic modeling (LDA) and word vectors(W2V) and meta data (email, hashtag, etc.).
 2. LLDA: supervised topic modelling
 
 
