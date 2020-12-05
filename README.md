@@ -12,5 +12,6 @@ Using 1) LDA+W2V and 2) LLDA :
 
 
 Originally written in the google colab:
-https://colab.research.google.com/drive/1bLp7NvPLzTrmLfyhWPJY1iYi8sRTyvgB?usp=sharing
-https://colab.research.google.com/drive/1mGUZbmMBJJqgnRi0KwseViLcTTQy1NyV?usp=sharing
+1) LDA+W2V: https://colab.research.google.com/drive/1bLp7NvPLzTrmLfyhWPJY1iYi8sRTyvgB?usp=sharing
+2) LLDA: https://colab.research.google.com/drive/1mGUZbmMBJJqgnRi0KwseViLcTTQy1NyV?usp=sharing
+For LLDA, I borrowed most of the codes from someone who implemented LLDA class.
