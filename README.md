@@ -6,7 +6,7 @@ This project is to detect misinformation about climate change. Similar to fake n
 
 Here, the former approach was used but later expanded to LLDA (Labeled LDA), which can be trained as supervised learning with labels.
 
-Climate change misinformation detection using:
+Methods used:
 1. Topic modeling (LDA) and word vectors(W2V) and meta data (email, hashtag, etc.).
 2. LLDA: supervised topic modelling
 
