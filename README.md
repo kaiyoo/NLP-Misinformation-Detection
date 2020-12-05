@@ -11,7 +11,7 @@ Using 1) LDA+W2V and 2) LLDA :
 2. LLDA: supervised topic modelling (with labels)
 
 
-Originally written in the google colab:
+Originally written in the google colab. Jupyter notebook codes here may be easier to see than colab codes:
 1) LDA+W2V: https://colab.research.google.com/drive/1bLp7NvPLzTrmLfyhWPJY1iYi8sRTyvgB?usp=sharing
 2) LLDA: https://colab.research.google.com/drive/1mGUZbmMBJJqgnRi0KwseViLcTTQy1NyV?usp=sharing
 For LLDA, I borrowed most of the codes from someone who implemented LLDA class.
