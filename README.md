@@ -1,5 +1,7 @@
 # Climatechange Misinformation Detection
 
+This project was done in the subject, COMP90042 (Natural Language Processing) taken in Semester1, 2020 in the University of Melbourne.
+
 This project is to detect misinformation about climate change. Similar to fake news detection.
 
 (Topic modeling and comparing distribution of topics) OR (supervised learning only on the misinformation label) may be considered for this kind of problem.
